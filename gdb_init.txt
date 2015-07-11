@@ -1,0 +1,6 @@
+target extended :3333
+set mem inaccessible-by-default off
+monitor reset halt
+load
+b main
+continue
