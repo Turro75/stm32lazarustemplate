@@ -13,7 +13,9 @@ This template contains:
   before to say "Shame!!!" consider that this helps a lot to port tons of library (as I did with ssd1306 graphic lcd)  
 this is the base for all my new project based on this microcontroller under lazarus/freepascal
 
-THIS IS NOT YET FINISHED, I'M A HOBBYIST PROGRAMMER SO DON'T EXPECT HIGH QUALITY INDUSTRIAL GRADE CODE 
+THIS IS NOT YET FINISHED, I'M A HOBBYIST PROGRAMMER SO DON'T EXPECT HIGH QUALITY INDUSTRIAL GRADE CODE.
+
+
 To Do:
 - write down a tutorial/howto
 - menu manager
