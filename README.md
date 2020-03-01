@@ -1,9 +1,12 @@
 # stm32lazarustemplate
 copy the content of the folder in the ~/.lazarus_template
-it will be available in the template form in lazarus.
+then it will be available in the template form in lazarus.
+
 Please be aware that You need to define a name and a directory when opening the new project.
-in the main.pas unit You get setup and loop procedures (who said Arduino?)
-in the project_name.lpr You get the main clock setup, the gpio setup and systick interrupt handler procedure.
+
+In the main.pas unit You get setup and loop procedures (who said Arduino?)
+
+In the project_name.lpr You get the main clock setup, the gpio setup and systick interrupt handler procedure.
 
 This template contains:
 - compiler settings for stm32f103 32bit cpu for both debug and release (you have to adjust units folder)
